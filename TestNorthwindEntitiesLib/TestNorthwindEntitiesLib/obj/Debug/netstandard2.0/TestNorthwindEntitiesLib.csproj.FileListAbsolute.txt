@@ -1,0 +1,8 @@
+C:\Users\Евгений\Documents\GitHub\TestNorthwindWeb\TestNorthwindEntitiesLib\TestNorthwindEntitiesLib\bin\Debug\netstandard2.0\TestNorthwindEntitiesLib.deps.json
+C:\Users\Евгений\Documents\GitHub\TestNorthwindWeb\TestNorthwindEntitiesLib\TestNorthwindEntitiesLib\bin\Debug\netstandard2.0\TestNorthwindEntitiesLib.dll
+C:\Users\Евгений\Documents\GitHub\TestNorthwindWeb\TestNorthwindEntitiesLib\TestNorthwindEntitiesLib\bin\Debug\netstandard2.0\TestNorthwindEntitiesLib.pdb
+C:\Users\Евгений\Documents\GitHub\TestNorthwindWeb\TestNorthwindEntitiesLib\TestNorthwindEntitiesLib\obj\Debug\netstandard2.0\TestNorthwindEntitiesLib.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Documents\GitHub\TestNorthwindWeb\TestNorthwindEntitiesLib\TestNorthwindEntitiesLib\obj\Debug\netstandard2.0\TestNorthwindEntitiesLib.AssemblyInfoInputs.cache
+C:\Users\Евгений\Documents\GitHub\TestNorthwindWeb\TestNorthwindEntitiesLib\TestNorthwindEntitiesLib\obj\Debug\netstandard2.0\TestNorthwindEntitiesLib.AssemblyInfo.cs
+C:\Users\Евгений\Documents\GitHub\TestNorthwindWeb\TestNorthwindEntitiesLib\TestNorthwindEntitiesLib\obj\Debug\netstandard2.0\TestNorthwindEntitiesLib.dll
+C:\Users\Евгений\Documents\GitHub\TestNorthwindWeb\TestNorthwindEntitiesLib\TestNorthwindEntitiesLib\obj\Debug\netstandard2.0\TestNorthwindEntitiesLib.pdb

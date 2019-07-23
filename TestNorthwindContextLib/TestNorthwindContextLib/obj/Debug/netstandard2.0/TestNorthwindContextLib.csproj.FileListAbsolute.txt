@@ -1,0 +1,12 @@
+C:\Users\Евгений\Documents\GitHub\TestNorthwindWeb\TestNorthwindContextLib\TestNorthwindContextLib\bin\Debug\netstandard2.0\TestNorthwindContextLib.deps.json
+C:\Users\Евгений\Documents\GitHub\TestNorthwindWeb\TestNorthwindContextLib\TestNorthwindContextLib\bin\Debug\netstandard2.0\TestNorthwindContextLib.dll
+C:\Users\Евгений\Documents\GitHub\TestNorthwindWeb\TestNorthwindContextLib\TestNorthwindContextLib\bin\Debug\netstandard2.0\TestNorthwindEntitiesLib.dll
+C:\Users\Евгений\Documents\GitHub\TestNorthwindWeb\TestNorthwindContextLib\TestNorthwindContextLib\bin\Debug\netstandard2.0\TestNorthwindEntitiesLib.pdb
+C:\Users\Евгений\Documents\GitHub\TestNorthwindWeb\TestNorthwindContextLib\TestNorthwindContextLib\obj\Debug\netstandard2.0\TestNorthwindContextLib.csprojAssemblyReference.cache
+C:\Users\Евгений\Documents\GitHub\TestNorthwindWeb\TestNorthwindContextLib\TestNorthwindContextLib\obj\Debug\netstandard2.0\TestNorthwindContextLib.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Documents\GitHub\TestNorthwindWeb\TestNorthwindContextLib\TestNorthwindContextLib\obj\Debug\netstandard2.0\TestNorthwindContextLib.AssemblyInfoInputs.cache
+C:\Users\Евгений\Documents\GitHub\TestNorthwindWeb\TestNorthwindContextLib\TestNorthwindContextLib\obj\Debug\netstandard2.0\TestNorthwindContextLib.AssemblyInfo.cs
+C:\Users\Евгений\Documents\GitHub\TestNorthwindWeb\TestNorthwindContextLib\TestNorthwindContextLib\obj\Debug\netstandard2.0\TestNorthwindContextLib.csproj.CopyComplete
+C:\Users\Евгений\Documents\GitHub\TestNorthwindWeb\TestNorthwindContextLib\TestNorthwindContextLib\bin\Debug\netstandard2.0\TestNorthwindContextLib.pdb
+C:\Users\Евгений\Documents\GitHub\TestNorthwindWeb\TestNorthwindContextLib\TestNorthwindContextLib\obj\Debug\netstandard2.0\TestNorthwindContextLib.dll
+C:\Users\Евгений\Documents\GitHub\TestNorthwindWeb\TestNorthwindContextLib\TestNorthwindContextLib\obj\Debug\netstandard2.0\TestNorthwindContextLib.pdb

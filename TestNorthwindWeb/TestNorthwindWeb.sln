@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.29009.5
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestNorthwindWeb", "TestNorthwindWeb\TestNorthwindWeb.csproj", "{AC69E843-D33C-43C4-A152-A77B5ED052FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNorthwindEntitiesLib", "..\TestNorthwindEntitiesLib\TestNorthwindEntitiesLib\TestNorthwindEntitiesLib.csproj", "{D492D68B-01F6-442E-88DF-DB8263735A73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestNorthwindEntitiesLib", "..\TestNorthwindEntitiesLib\TestNorthwindEntitiesLib\TestNorthwindEntitiesLib.csproj", "{D492D68B-01F6-442E-88DF-DB8263735A73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNorthwindContextLib", "..\TestNorthwindContextLib\TestNorthwindContextLib\TestNorthwindContextLib.csproj", "{6E40BD16-C287-4330-9696-2924A702C431}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestNorthwindContextLib", "..\TestNorthwindContextLib\TestNorthwindContextLib\TestNorthwindContextLib.csproj", "{6E40BD16-C287-4330-9696-2924A702C431}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

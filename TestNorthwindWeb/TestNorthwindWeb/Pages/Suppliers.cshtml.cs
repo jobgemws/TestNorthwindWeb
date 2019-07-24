@@ -5,7 +5,6 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using TestNorthwindContextLib;
-using Microsoft.AspNetCore.Mvc;
 using TestNorthwindEntitiesLib;
 
 namespace TestNorthwindWeb.Pages
